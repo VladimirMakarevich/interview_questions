@@ -1,4 +1,4 @@
-# Interview Questions .NET
+# Interview Questions Patterns & Principles
 
 
 #### общие правила создание link

@@ -1,4 +1,4 @@
-# Interview Questions .NET
+# Interview Questions RabbitMQ
 
 
 #### общие правила создание link

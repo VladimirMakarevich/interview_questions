@@ -1,4 +1,4 @@
-# Interview Questions .NET
+# Interview Questions JavaScript
 
 
 #### общие правила создание link

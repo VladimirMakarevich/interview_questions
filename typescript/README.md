@@ -1,4 +1,4 @@
-# Interview Questions .NET
+# Interview Questions TypeScript
 
 
 #### общие правила создание link
